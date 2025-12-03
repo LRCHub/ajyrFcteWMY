@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "カオスが極まる",
+  "base_artist": "UNISON SQUARE GARDEN",
+  "createdAt": "2025-12-03T16:10:11.215781Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カオスが極まる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/01_カオスが極まる_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カオスが極まる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/02_カオスが極まる_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カオスが極まる - Chaos Ga Kiwamaru",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/03_カオスが極まる_-_Chaos_Ga_Kiwamaru_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カオスが極まる",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_カオスが極まる_UNISON_SQUARE_GARDEN.txt"
+    }
+  ]
+}
